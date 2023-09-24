@@ -6,9 +6,11 @@ namespace hello_world
 class Program
 static void Main()
 {
+Console.Write("Enter your name: ");
+string name = 
+Console.ReadLine();
 
-
-Console.WriteLine("Hello World!")
+Console.WriteLine("Hello world from " + name);
 }
 }
 
