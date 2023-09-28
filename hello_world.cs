@@ -1,6 +1,3 @@
-
-
-using namespace std;
 namespace hello_world
 {
 class Program
